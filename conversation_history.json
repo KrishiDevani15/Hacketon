@@ -1,0 +1,26 @@
+[
+    {
+        "User Information": {
+            "Name": "Hare Krishna",
+            "Phone": "1234567 89",
+            "Address": "Borivali"
+        }
+    },
+    {
+        "User Information": {
+            "Name": "Mukul Krishnan",
+            "Phone": "1 2 3 4 5 6 7 8 10",
+            "Address": "Aman Vasai"
+        }
+    },
+    {
+        "IT Desk Questions": {
+            "What is the issue you are experiencing?": "laptop is broken",
+            "Have you tried any troubleshooting steps?": "no",
+            "Any additional information you would like to provide?": "keyboard broken"
+        }
+    },
+    {
+        "Gemini LLM": "* **Physical damage:** The laptop may have been dropped, bumped, or subjected to other physical trauma that has caused it to break. This can include damage to the screen, keyboard, trackpad, or other components.\n* **Liquid damage:** The laptop may have been exposed to water or other liquids, which can cause short circuits and other damage.\n* **Overheating:** The laptop may have been overheated, which can damage the internal components. This can be caused by a number of factors, such as a blocked fan or a faulty cooling system.\n* **Software issues:** The laptop may be experiencing software issues that are preventing it from functioning properly. This can include problems with the operating system, drivers, or installed software.\n* **Hardware failure:** The laptop may have experienced a hardware failure, such as a faulty motherboard, hard drive, or memory. This can be caused by a number of factors, such as manufacturing defects or component degradation."
+    }
+]

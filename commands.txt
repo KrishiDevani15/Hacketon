@@ -1,0 +1,9 @@
+pip install spacy
+
+pip install SpeechRecognition
+
+python -m spacy download en_core_web_sm
+
+pip install pyaudio
+
+pip install google-cloud-texttospeech
